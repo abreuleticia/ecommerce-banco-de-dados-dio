@@ -429,7 +429,7 @@ git clone https://github.com/seuusuario/ecommerce-banco-dados.git
 Adicionar nesta seção a imagem:
 
 ```
-docs/modelo_logico.png
+[DR-Ecommerce.png](https://github.com/abreuleticia/ecommerce-banco-de-dados-dio/blob/main/docs/DR%20-%20Ecommerce.png)
 ```
 
 ---
