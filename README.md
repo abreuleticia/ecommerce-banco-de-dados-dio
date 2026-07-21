@@ -117,8 +117,7 @@ ecommerce-banco-dados
 ├── README.md
 │
 ├── docs
-│   ├── modelo_logico.png
-│   └── modelo_conceitual.png
+│   ├── DR - Ecommerce.png
 │
 └── sql
     ├── 01_create_database.sql
