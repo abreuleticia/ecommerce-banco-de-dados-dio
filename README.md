@@ -424,16 +424,6 @@ git clone https://github.com/seuusuario/ecommerce-banco-dados.git
 
 ---
 
-# 📷 Modelo do Banco
-
-Adicionar nesta seção a imagem:
-
-```
-[DR-Ecommerce.png](https://github.com/abreuleticia/ecommerce-banco-de-dados-dio/blob/main/docs/DR%20-%20Ecommerce.png)
-```
-
----
-
 # 📖 Aprendizados
 
 Este projeto permitiu aplicar conceitos fundamentais de Banco de Dados Relacionais, como:
@@ -466,7 +456,7 @@ Este projeto permitiu aplicar conceitos fundamentais de Banco de Dados Relaciona
 
 **Letícia Carvalho**
 
-Analista de Sistemas | Suporte MES | SQL | Banco de Dados | Desenvolvimento de Software
+Analista de Sistemas | Suporte Técnico | SQL | Banco de Dados | Desenvolvimento de Software
 
 LinkedIn:
 > [Letícia Carvalho](https://www.linkedin.com/in/letiabreuc/).
