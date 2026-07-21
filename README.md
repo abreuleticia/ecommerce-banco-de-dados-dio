@@ -395,7 +395,7 @@ O banco responde perguntas como:
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/abreuleticia/ecommerce-banco-de-dados-dio
+git clone https://github.com/abreuleticia/ecommerce-banco-de-dados-dio.git
 ```
 
 ---
